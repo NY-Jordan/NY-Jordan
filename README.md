@@ -12,5 +12,5 @@ Dev Fullstack | Passionate about technology and web development
 - [NYJobs](https://github.com/NY-Jordan/ny-jobs) - Job search application with CV database management.
 
 ## Follow me 
-- [Mon profil LinkedIn](https://www.linkedin.com/in/ny-jordan](https://www.linkedin.com/in/yvan-jordan-n-218069335/))
-- [Mon Twitter]([https://twitter.com/NY_Jordan](https://x.com/nguetse_yv59271))
+- [Mon profil LinkedIn](https://www.linkedin.com/in/yvan-jordan-n-218069335/)
+- [Mon Twitter](https://x.com/nguetse_yv59271)
