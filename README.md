@@ -1,17 +1,17 @@
-# Bonjour, je suis Yvan Jordan NGUETSE
+# Hey,I'm Yvan Jordan NGUETSE
 
-Développeur Fullstack | Passionné par la technologie et le développement web
+Dev Fullstack | Passionate about technology and web development
 
-## À propos de moi
-- 👨‍💻 Développeur Fullstack avec une expertise en PHP, JavaScript, React, Node.js et plus.
+## About Me
+- 👨‍💻 Fullstack developer with expertise in PHP, JavaScript, React, Node.js and more.
 - 🎓 Formation en développement logiciel.
-- 📧 Vous pouvez me contacter par email : [ynguetse@gmail.com](mailto:ynguetse@gmail.com).
+- 📧 Contact me  : [ynguetse@gmail.com](mailto:ynguetse@gmail.com), +237675400203.
 
-## Mes projets
-- [TaskMate](https://github.com/NY-Jordan/todo_app) - Application de gestion des tâches avec intégration de Google Calendar.
-- [NYJobs](https://github.com/NY-Jordan/ny-jobs) - Application de recherche d'emploi avec gestion d'une banque de CV.
+## My  Projects
+- [TaskMate](https://github.com/NY-Jordan/todo_app) - Task management application with Google Calendar integration.
+- [NYJobs](https://github.com/NY-Jordan/ny-jobs) - Job search application with CV database management.
 
-## Suivez-moi
+## Follow me 
 - [Mon site web](https://www.yvandev.com)
 - [Mon profil LinkedIn](https://www.linkedin.com/in/ny-jordan)
 - [Mon Twitter](https://twitter.com/NY_Jordan)
