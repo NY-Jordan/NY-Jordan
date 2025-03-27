@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bonjour, je suis Yvan Jordan NGUETSE
 
-<!--
-**NY-Jordan/NY-Jordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Fullstack | Passionné par la technologie et le développement web
 
-Here are some ideas to get you started:
+## À propos de moi
+- 👨‍💻 Développeur Fullstack avec une expertise en PHP, JavaScript, React, Node.js et plus.
+- 🎓 Formation en développement logiciel.
+- 📧 Vous pouvez me contacter par email : [ynguetse@gmail.com](mailto:ynguetse@gmail.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes projets
+- [TaskMate](https://github.com/NY-Jordan/todo_app) - Application de gestion des tâches avec intégration de Google Calendar.
+- [NYJobs](https://github.com/NY-Jordan/ny-jobs) - Application de recherche d'emploi avec gestion d'une banque de CV.
+
+## Suivez-moi
+- [Mon site web](https://www.yvandev.com)
+- [Mon profil LinkedIn](https://www.linkedin.com/in/ny-jordan)
+- [Mon Twitter](https://twitter.com/NY_Jordan)
