@@ -4,7 +4,7 @@ Dev Fullstack | Passionate about technology and web development
 
 ## About Me
 - 👨‍💻 Fullstack developer with expertise in PHP, JavaScript, React, Node.js and more.
-- 🎓 Formation en développement logiciel.
+- 🎓 Software development training.
 - 📧 Contact me  : [ynguetse@gmail.com](mailto:ynguetse@gmail.com), +237675400203.
 
 ## My  Projects
@@ -12,6 +12,5 @@ Dev Fullstack | Passionate about technology and web development
 - [NYJobs](https://github.com/NY-Jordan/ny-jobs) - Job search application with CV database management.
 
 ## Follow me 
-- [Mon site web](https://www.yvandev.com)
-- [Mon profil LinkedIn](https://www.linkedin.com/in/ny-jordan)
-- [Mon Twitter](https://twitter.com/NY_Jordan)
+- [Mon profil LinkedIn](https://www.linkedin.com/in/ny-jordan](https://www.linkedin.com/in/yvan-jordan-n-218069335/))
+- [Mon Twitter]([https://twitter.com/NY_Jordan](https://x.com/nguetse_yv59271))
